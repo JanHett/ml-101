@@ -1,0 +1,3 @@
+chapters/0\ Python\ Environment\ Setup/playground/**/*
+!chapters/0\ Python\ Environment\ Setup/playground/deep_thought.py
+!chapters/0\ Python\ Environment\ Setup/playground/scrabble.ipynb
