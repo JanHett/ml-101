@@ -1,0 +1,3 @@
+[submodule "chapters/2 Pandas/external/jorisvandenbossche/pandas-tutorial"]
+	path = chapters/2 Pandas/external/jorisvandenbossche/pandas-tutorial
+	url = https://github.com/jorisvandenbossche/pandas-tutorial.git
