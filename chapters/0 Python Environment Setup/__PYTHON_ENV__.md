@@ -2,6 +2,8 @@
 
 > This section is specifically about the system environment and ecosystem around Python. If you want to learn about the language, check out [the official Python site's compilation of resources](https://www.python.org/about/gettingstarted/).
 > 
+> In general this tutorial assumes that you are familiar with the language, but have used it in the past for a different purpose (e.g. server development, image processing, ...).
+> 
 > Please note that we are using Python 3 - it is similar, but not identical to the recently obsoleted Python 2.
 
 ## Python installation
@@ -39,7 +41,7 @@ With pipenv at the ready we can go ahead and create our first virtual environmen
 pipenv install numpy
 ```
 
-This will both create a virtual environment and install the `numpy` package - which is to ML what `express` is to server development in JS. You'll notice a `Pipfile` and a `Pipfile.lock` appeared - they're the `package.json` and `yarn.lock` of Pythonland.
+This will both create a virtual environment and install the `numpy` package - which is to ML what `express` is to server development in JS (I'll go into more details in chapter 1). You'll notice a `Pipfile` and a `Pipfile.lock` appeared - they're the `package.json` and `yarn.lock` of Pythonland.
 
 Now that we have an environment within which to work, let's go ahead and play!
 
@@ -59,6 +61,6 @@ Luckily, there's a py-thing for that: [Jupyter Notebooks](https://jupyter.org/).
 
 ### The VS Code Python extension
 
-The easiest way to work with notebooks is by using the [VS Code Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python). Go ahead and install it before we continue.
+An easy way to work with notebooks is by using the [VS Code Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python). Go ahead and install it before we continue.
 
 With this extension, you can open the Jupyter notebook titled `scrabble.ipynb`. It contains instructions for how to use it.

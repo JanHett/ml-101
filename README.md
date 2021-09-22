@@ -1,6 +1,6 @@
 # Machine Learning 101 (WIP)
 
-This is a "mini curriculum" that allows us "regular" Wawzers to get our hands dirty on machine learning problems.
+This is a "mini curriculum" designed to allow software engineers not familiar with machine learning to get their hands dirty on machine learning problems.
 
 The material is structured into chapters which you can find in the creatively named `chapters` folder. These are meant to be worked through in order, but feel free to skip any you are already familiar with.
 

@@ -11,7 +11,7 @@ def max(arr):
 
     for e in arr:
         print(e)
-        # if current_max < e:
-        #     current_max = e
+        if current_max < e:
+            current_max = e
 
     return current_max
